@@ -1,6 +1,6 @@
 // Display an alert when the page loads
 window.onload = function() {
-    alert("Welcome to my website!");
+    alert("Welcome to my super dope website!");
 };
 
 // Function to change text when a button is clicked
